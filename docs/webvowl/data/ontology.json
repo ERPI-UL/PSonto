@@ -180,28 +180,28 @@
         "IRI-based" : "DI_193"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_15",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_15"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_189",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_189"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_14",
+      "iri" : "https://purl.org/psonto#DI_15",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_14"
+        "IRI-based" : "DI_15"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_188",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_188"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_14",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_14"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_187",
@@ -216,16 +216,16 @@
         "IRI-based" : "DI_17"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_186",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_186"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_16",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_16"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_186",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_186"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_19",
@@ -300,16 +300,16 @@
         "IRI-based" : "DI_182"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_112",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_112"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_233",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_233"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_112",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_112"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_475",
@@ -324,6 +324,12 @@
         "IRI-based" : "DI_354"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_353",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_353"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_111",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -336,22 +342,10 @@
         "IRI-based" : "DI_474"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_353",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_353"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_232",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_232"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_352",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_352"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_231",
@@ -360,10 +354,10 @@
         "IRI-based" : "DI_231"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_110",
+      "iri" : "https://purl.org/psonto#DI_352",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_110"
+        "IRI-based" : "DI_352"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_473",
@@ -372,10 +366,10 @@
         "IRI-based" : "DI_473"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_351",
+      "iri" : "https://purl.org/psonto#DI_110",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_351"
+        "IRI-based" : "DI_110"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_472",
@@ -390,16 +384,22 @@
         "IRI-based" : "DI_230"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_479",
+      "iri" : "https://purl.org/psonto#DI_351",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_479"
+        "IRI-based" : "DI_351"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_358",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_358"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_479",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_479"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_116",
@@ -414,22 +414,16 @@
         "IRI-based" : "DI_237"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_357",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_357"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_115",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_115"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_478",
+      "iri" : "https://purl.org/psonto#DI_357",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_478"
+        "IRI-based" : "DI_357"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_236",
@@ -438,10 +432,16 @@
         "IRI-based" : "DI_236"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_356",
+      "iri" : "https://purl.org/psonto#DI_478",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_356"
+        "IRI-based" : "DI_478"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_477",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_477"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_114",
@@ -456,10 +456,16 @@
         "IRI-based" : "DI_235"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_477",
+      "iri" : "https://purl.org/psonto#DI_356",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_477"
+        "IRI-based" : "DI_356"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_355",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_355"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_476",
@@ -468,22 +474,16 @@
         "IRI-based" : "DI_476"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_113",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_113"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_234",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_234"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_355",
+      "iri" : "https://purl.org/psonto#DI_113",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_355"
+        "IRI-based" : "DI_113"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_84",
@@ -504,12 +504,6 @@
         "IRI-based" : "DI_83"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_86",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_86"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_118",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -522,10 +516,16 @@
         "IRI-based" : "DI_239"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_85",
+      "iri" : "https://purl.org/psonto#DI_86",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_85"
+        "IRI-based" : "DI_86"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_238",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_238"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_359",
@@ -534,10 +534,10 @@
         "IRI-based" : "DI_359"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_238",
+      "iri" : "https://purl.org/psonto#DI_85",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_238"
+        "IRI-based" : "DI_85"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_117",
@@ -582,16 +582,16 @@
         "IRI-based" : "DI_81"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_471",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_471"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_350",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_350"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_471",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_471"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_470",
@@ -606,10 +606,10 @@
         "IRI-based" : "DI_343"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_464",
+      "iri" : "https://purl.org/psonto#DI_222",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_464"
+        "IRI-based" : "DI_222"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_101",
@@ -618,10 +618,10 @@
         "IRI-based" : "DI_101"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_222",
+      "iri" : "https://purl.org/psonto#DI_464",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_222"
+        "IRI-based" : "DI_464"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_100",
@@ -636,16 +636,16 @@
         "IRI-based" : "DI_463"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_342",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_342"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_221",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_221"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_342",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_342"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_462",
@@ -678,10 +678,10 @@
         "IRI-based" : "DI_461"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_105",
+      "iri" : "https://purl.org/psonto#DI_468",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_105"
+        "IRI-based" : "DI_468"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_226",
@@ -690,16 +690,22 @@
         "IRI-based" : "DI_226"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_468",
+      "iri" : "https://purl.org/psonto#DI_105",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_468"
+        "IRI-based" : "DI_105"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_347",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_347"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_346",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_346"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_225",
@@ -718,12 +724,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_467"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_346",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_346"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_466",
@@ -750,16 +750,16 @@
         "IRI-based" : "DI_224"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_223",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_223"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_465",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_465"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_102",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_102"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_344",
@@ -768,16 +768,10 @@
         "IRI-based" : "DI_344"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_223",
+      "iri" : "https://purl.org/psonto#DI_102",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_223"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_95",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_95"
+        "IRI-based" : "DI_102"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_109",
@@ -786,10 +780,16 @@
         "IRI-based" : "DI_109"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_94",
+      "iri" : "https://purl.org/psonto#DI_95",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_94"
+        "IRI-based" : "DI_95"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_108",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_108"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_229",
@@ -798,10 +798,16 @@
         "IRI-based" : "DI_229"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_108",
+      "iri" : "https://purl.org/psonto#DI_94",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_108"
+        "IRI-based" : "DI_94"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_228",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_228"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_107",
@@ -822,10 +828,10 @@
         "IRI-based" : "DI_349"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_228",
+      "iri" : "https://purl.org/psonto#DI_96",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_228"
+        "IRI-based" : "DI_96"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_469",
@@ -834,28 +840,22 @@
         "IRI-based" : "DI_469"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_96",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_96"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_348",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_348"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_227",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_227"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_106",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_106"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_227",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_227"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_99",
@@ -900,22 +900,16 @@
         "IRI-based" : "DI_460"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_255",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_255"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_497",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_497"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_376",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_376"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_255",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_255"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_134",
@@ -924,16 +918,16 @@
         "IRI-based" : "DI_134"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_497",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_497"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_133",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_133"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_69",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_69"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_375",
@@ -954,16 +948,16 @@
         "IRI-based" : "DI_496"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_69",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_69"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_132",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_132"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_374",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_374"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_495",
@@ -972,16 +966,16 @@
         "IRI-based" : "DI_495"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_374",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_374"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_253",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_253"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_373",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_373"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_494",
@@ -1002,6 +996,12 @@
         "IRI-based" : "DI_252"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_373",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_373"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_259",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -1014,22 +1014,28 @@
         "IRI-based" : "DI_138"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_137",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_137"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_258",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_258"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_137",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_137"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_379",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_379"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_136",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_136"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_378",
@@ -1050,22 +1056,16 @@
         "IRI-based" : "DI_257"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_136",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_136"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_498",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_498"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_135",
+      "iri" : "https://purl.org/psonto#DI_377",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_135"
+        "IRI-based" : "DI_377"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_256",
@@ -1074,10 +1074,10 @@
         "IRI-based" : "DI_256"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_377",
+      "iri" : "https://purl.org/psonto#DI_135",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_377"
+        "IRI-based" : "DI_135"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_62",
@@ -1140,10 +1140,10 @@
         "IRI-based" : "DI_60"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_493",
+      "iri" : "https://purl.org/psonto#DI_372",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_493"
+        "IRI-based" : "DI_372"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_251",
@@ -1152,22 +1152,16 @@
         "IRI-based" : "DI_251"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_372",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_372"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_130",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_130"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_250",
+      "iri" : "https://purl.org/psonto#DI_493",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_250"
+        "IRI-based" : "DI_493"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_371",
@@ -1180,6 +1174,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_492"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_250",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_250"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_491",
@@ -1200,10 +1200,10 @@
         "IRI-based" : "DI_490"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_123",
+      "iri" : "https://purl.org/psonto#DI_486",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_123"
+        "IRI-based" : "DI_486"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_365",
@@ -1212,10 +1212,10 @@
         "IRI-based" : "DI_365"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_486",
+      "iri" : "https://purl.org/psonto#DI_123",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_486"
+        "IRI-based" : "DI_123"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_244",
@@ -1236,16 +1236,22 @@
         "IRI-based" : "DI_485"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_122",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_122"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_243",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_243"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_122",
+      "iri" : "https://purl.org/psonto#DI_363",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_122"
+        "IRI-based" : "DI_363"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_484",
@@ -1266,10 +1272,16 @@
         "IRI-based" : "DI_242"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_363",
+      "iri" : "https://purl.org/psonto#DI_120",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_363"
+        "IRI-based" : "DI_120"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_241",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_241"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_362",
@@ -1284,22 +1296,10 @@
         "IRI-based" : "DI_483"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_120",
+      "iri" : "https://purl.org/psonto#DI_248",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_120"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_241",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_241"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_369",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_369"
+        "IRI-based" : "DI_248"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_127",
@@ -1308,22 +1308,10 @@
         "IRI-based" : "DI_127"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_248",
+      "iri" : "https://purl.org/psonto#DI_369",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_248"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_368",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_368"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_126",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_126"
+        "IRI-based" : "DI_369"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_247",
@@ -1338,10 +1326,16 @@
         "IRI-based" : "DI_489"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_488",
+      "iri" : "https://purl.org/psonto#DI_126",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_488"
+        "IRI-based" : "DI_126"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_368",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_368"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_367",
@@ -1350,22 +1344,22 @@
         "IRI-based" : "DI_367"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_246",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_246"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_125",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_125"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_366",
+      "iri" : "https://purl.org/psonto#DI_246",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_366"
+        "IRI-based" : "DI_246"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_488",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_488"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_245",
@@ -1374,16 +1368,22 @@
         "IRI-based" : "DI_245"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_487",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_487"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_124",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_124"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_487",
+      "iri" : "https://purl.org/psonto#DI_366",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_487"
+        "IRI-based" : "DI_366"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_73",
@@ -1398,16 +1398,16 @@
         "IRI-based" : "DI_72"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_129",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_129"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_75",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_75"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_129",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_129"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_74",
@@ -1416,16 +1416,16 @@
         "IRI-based" : "DI_74"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_249",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_249"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_128",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_128"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_249",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_249"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_77",
@@ -1464,6 +1464,12 @@
         "IRI-based" : "DI_70"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_361",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_361"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_240",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -1474,12 +1480,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_482"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_361",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_361"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_481",
@@ -1500,10 +1500,10 @@
         "IRI-based" : "DI_480"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_156",
+      "iri" : "https://purl.org/psonto#DI_277",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_156"
+        "IRI-based" : "DI_277"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_48",
@@ -1518,16 +1518,16 @@
         "IRI-based" : "DI_398"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_277",
+      "iri" : "https://purl.org/psonto#DI_156",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_277"
+        "IRI-based" : "DI_156"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_155",
+      "iri" : "https://purl.org/psonto#DI_397",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_155"
+        "IRI-based" : "DI_397"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_47",
@@ -1542,10 +1542,16 @@
         "IRI-based" : "DI_276"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_397",
+      "iri" : "https://purl.org/psonto#DI_155",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_397"
+        "IRI-based" : "DI_155"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_154",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_154"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_396",
@@ -1560,16 +1566,10 @@
         "IRI-based" : "DI_275"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_154",
+      "iri" : "https://purl.org/psonto#DI_49",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_154"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_395",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_395"
+        "IRI-based" : "DI_49"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_153",
@@ -1578,16 +1578,16 @@
         "IRI-based" : "DI_153"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_395",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_395"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_274",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_274"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_49",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_49"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_159",
@@ -1608,12 +1608,6 @@
         "IRI-based" : "DI_279"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_399",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_399"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_278",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -1624,6 +1618,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_157"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_399",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_399"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_40",
@@ -1692,10 +1692,10 @@
         "IRI-based" : "DI_273"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_272",
+      "iri" : "https://purl.org/psonto#DI_151",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_272"
+        "IRI-based" : "DI_151"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_393",
@@ -1704,10 +1704,10 @@
         "IRI-based" : "DI_393"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_151",
+      "iri" : "https://purl.org/psonto#DI_272",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_151"
+        "IRI-based" : "DI_272"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_392",
@@ -1716,16 +1716,16 @@
         "IRI-based" : "DI_392"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_271",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_271"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_150",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_150"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_271",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_271"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_391",
@@ -1746,12 +1746,6 @@
         "IRI-based" : "DI_266"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_387",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_387"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_145",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -1762,6 +1756,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_59"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_387",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_387"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_386",
@@ -1794,22 +1794,22 @@
         "IRI-based" : "DI_264"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_385",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_385"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_143",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_143"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_142",
+      "iri" : "https://purl.org/psonto#DI_385",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_142"
+        "IRI-based" : "DI_385"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_263",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_263"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_384",
@@ -1818,10 +1818,10 @@
         "IRI-based" : "DI_384"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_263",
+      "iri" : "https://purl.org/psonto#DI_142",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_263"
+        "IRI-based" : "DI_142"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_149",
@@ -1866,16 +1866,16 @@
         "IRI-based" : "DI_146"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_388",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_388"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_267",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_267"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_388",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_388"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_51",
@@ -1926,12 +1926,6 @@
         "IRI-based" : "DI_56"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_383",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_383"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_141",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -1944,10 +1938,16 @@
         "IRI-based" : "DI_262"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_261",
+      "iri" : "https://purl.org/psonto#DI_383",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_261"
+        "IRI-based" : "DI_383"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_140",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_140"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_382",
@@ -1956,10 +1956,10 @@
         "IRI-based" : "DI_382"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_140",
+      "iri" : "https://purl.org/psonto#DI_261",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_140"
+        "IRI-based" : "DI_261"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_260",
@@ -1986,22 +1986,16 @@
         "IRI-based" : "DI_299"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_178",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_178"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_26",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_26"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_25",
+      "iri" : "https://purl.org/psonto#DI_178",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_25"
+        "IRI-based" : "DI_178"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_177",
@@ -2010,22 +2004,16 @@
         "IRI-based" : "DI_177"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_25",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_25"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_298",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_298"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_297",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_297"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_28",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_28"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_176",
@@ -2034,10 +2022,16 @@
         "IRI-based" : "DI_176"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_296",
+      "iri" : "https://purl.org/psonto#DI_28",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_296"
+        "IRI-based" : "DI_28"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_297",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_297"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_175",
@@ -2050,6 +2044,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_27"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_296",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_296"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_29",
@@ -2124,28 +2124,28 @@
         "IRI-based" : "DI_295"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_294",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_294"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_173",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_173"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_172",
+      "iri" : "https://purl.org/psonto#DI_294",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_172"
+        "IRI-based" : "DI_294"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_293",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_293"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_172",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_172"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_171",
@@ -2166,16 +2166,16 @@
         "IRI-based" : "DI_167"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_288",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_288"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_37",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_37"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_288",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_288"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_287",
@@ -2184,28 +2184,16 @@
         "IRI-based" : "DI_287"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_166",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_166"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_36",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_36"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_165",
+      "iri" : "https://purl.org/psonto#DI_166",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_165"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_39",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_39"
+        "IRI-based" : "DI_166"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_286",
@@ -2214,16 +2202,28 @@
         "IRI-based" : "DI_286"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_285",
+      "iri" : "https://purl.org/psonto#DI_39",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_285"
+        "IRI-based" : "DI_39"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_165",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_165"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_38",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_38"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_285",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_285"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_164",
@@ -2292,28 +2292,28 @@
         "IRI-based" : "DI_280"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_284",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_284"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_163",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_163"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_283",
+      "iri" : "https://purl.org/psonto#DI_284",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_283"
+        "IRI-based" : "DI_284"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_162",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_162"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_283",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_283"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_282",
@@ -2466,22 +2466,16 @@
         "IRI-based" : "DI_530"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_534",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_534"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_413",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_413"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_412",
+      "iri" : "https://purl.org/psonto#DI_534",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_412"
+        "IRI-based" : "DI_534"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_533",
@@ -2490,16 +2484,22 @@
         "IRI-based" : "DI_533"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_411",
+      "iri" : "https://purl.org/psonto#DI_412",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_411"
+        "IRI-based" : "DI_412"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_532",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_532"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_411",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_411"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_410",
@@ -2526,16 +2526,16 @@
         "IRI-based" : "DI_538"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_537",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_537"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_416",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_416"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_537",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_537"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_536",
@@ -2550,16 +2550,16 @@
         "IRI-based" : "DI_415"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_414",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_414"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_535",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_535"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_414",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_414"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_419",
@@ -2634,22 +2634,16 @@
         "IRI-based" : "DI_527"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_405",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_405"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_526",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_526"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_525",
+      "iri" : "https://purl.org/psonto#DI_405",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_525"
+        "IRI-based" : "DI_405"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_404",
@@ -2658,16 +2652,22 @@
         "IRI-based" : "DI_404"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_403",
+      "iri" : "https://purl.org/psonto#DI_525",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_403"
+        "IRI-based" : "DI_525"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_524",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_524"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_403",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_403"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_409",
@@ -2688,16 +2688,22 @@
         "IRI-based" : "DI_529"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_407",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_407"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_528",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_528"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_407",
+      "iri" : "https://purl.org/psonto#DI_552",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_407"
+        "IRI-based" : "DI_552"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_310",
@@ -2712,22 +2718,16 @@
         "IRI-based" : "DI_431"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_552",
+      "iri" : "https://purl.org/psonto#DI_430",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_552"
+        "IRI-based" : "DI_430"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_551",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_551"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_430",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_430"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_550",
@@ -2754,12 +2754,6 @@
         "IRI-based" : "DI_314"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_434",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_434"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_555",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -2772,16 +2766,10 @@
         "IRI-based" : "DI_313"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_433",
+      "iri" : "https://purl.org/psonto#DI_434",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_433"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_554",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_554"
+        "IRI-based" : "DI_434"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_312",
@@ -2790,10 +2778,16 @@
         "IRI-based" : "DI_312"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_553",
+      "iri" : "https://purl.org/psonto#DI_554",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_553"
+        "IRI-based" : "DI_554"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_433",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_433"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_432",
@@ -2806,6 +2800,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_311"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_553",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_553"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_318",
@@ -2844,22 +2844,16 @@
         "IRI-based" : "DI_316"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_437",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_437"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_558",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_558"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_315",
+      "iri" : "https://purl.org/psonto#DI_437",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_315"
+        "IRI-based" : "DI_437"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_436",
@@ -2874,22 +2868,28 @@
         "IRI-based" : "DI_557"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_315",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_315"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_319",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_319"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_541",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_541"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_420",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_420"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_541",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_541"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_540",
@@ -2904,22 +2904,16 @@
         "IRI-based" : "DI_545"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_303",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_303"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_424",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_424"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_302",
+      "iri" : "https://purl.org/psonto#DI_303",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_302"
+        "IRI-based" : "DI_303"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_544",
@@ -2934,16 +2928,16 @@
         "IRI-based" : "DI_423"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_302",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_302"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_422",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_422"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_301",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_301"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_543",
@@ -2952,16 +2946,10 @@
         "IRI-based" : "DI_543"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_542",
+      "iri" : "https://purl.org/psonto#DI_301",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_542"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_300",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_300"
+        "IRI-based" : "DI_301"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_421",
@@ -2970,10 +2958,16 @@
         "IRI-based" : "DI_421"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_428",
+      "iri" : "https://purl.org/psonto#DI_300",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_428"
+        "IRI-based" : "DI_300"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_542",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_542"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_549",
@@ -2988,6 +2982,18 @@
         "IRI-based" : "DI_307"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_428",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_428"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_427",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_427"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_306",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -2998,18 +3004,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_548"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_427",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_427"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_305",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_305"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_426",
@@ -3024,6 +3018,18 @@
         "IRI-based" : "DI_547"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_305",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_305"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_425",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_425"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_304",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -3036,22 +3042,10 @@
         "IRI-based" : "DI_546"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_425",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_425"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_309",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_309"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_308",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_308"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_429",
@@ -3060,22 +3054,16 @@
         "IRI-based" : "DI_429"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_308",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_308"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_332",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_332"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_8",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_8"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_453",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_453"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_211",
@@ -3084,16 +3072,28 @@
         "IRI-based" : "DI_211"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_8",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_8"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_574",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_574"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_573",
+      "iri" : "https://purl.org/psonto#DI_453",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_573"
+        "IRI-based" : "DI_453"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_7",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_7"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_452",
@@ -3114,16 +3114,10 @@
         "IRI-based" : "DI_210"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_7",
+      "iri" : "https://purl.org/psonto#DI_573",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_7"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_451",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_451"
+        "IRI-based" : "DI_573"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_330",
@@ -3138,10 +3132,10 @@
         "IRI-based" : "DI_572"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_571",
+      "iri" : "https://purl.org/psonto#DI_451",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_571"
+        "IRI-based" : "DI_451"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_450",
@@ -3156,10 +3150,22 @@
         "IRI-based" : "DI_9"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_571",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_571"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_215",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_215"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_578",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_578"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_336",
@@ -3174,10 +3180,16 @@
         "IRI-based" : "DI_457"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_578",
+      "iri" : "https://purl.org/psonto#DI_577",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_578"
+        "IRI-based" : "DI_577"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_456",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_456"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_214",
@@ -3192,24 +3204,6 @@
         "IRI-based" : "DI_335"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_577",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_577"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_456",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_456"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_213",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_213"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_455",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -3222,10 +3216,22 @@
         "IRI-based" : "DI_576"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_213",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_213"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_334",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_334"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_212",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_212"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_333",
@@ -3246,22 +3252,10 @@
         "IRI-based" : "DI_575"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_212",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_212"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_219",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_219"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_339",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_339"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_218",
@@ -3270,16 +3264,10 @@
         "IRI-based" : "DI_218"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_2",
+      "iri" : "https://purl.org/psonto#DI_339",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_2"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_338",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_338"
+        "IRI-based" : "DI_339"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_459",
@@ -3294,6 +3282,18 @@
         "IRI-based" : "DI_217"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_2",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_2"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_338",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_338"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_579",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -3306,16 +3306,16 @@
         "IRI-based" : "DI_458"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_1",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_1"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_337",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_337"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_1",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_1"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_216",
@@ -3354,12 +3354,6 @@
         "IRI-based" : "DI_570"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_442",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_442"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_563",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -3378,16 +3372,22 @@
         "IRI-based" : "DI_200"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_320",
+      "iri" : "https://purl.org/psonto#DI_442",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_320"
+        "IRI-based" : "DI_442"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_562",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_562"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_320",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_320"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_441",
@@ -3414,16 +3414,16 @@
         "IRI-based" : "DI_560"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_325",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_325"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#DI_567",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_567"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_325",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_325"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_204",
@@ -3444,10 +3444,10 @@
         "IRI-based" : "DI_445"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_203",
+      "iri" : "https://purl.org/psonto#DI_324",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_203"
+        "IRI-based" : "DI_324"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_566",
@@ -3456,22 +3456,10 @@
         "IRI-based" : "DI_566"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_324",
+      "iri" : "https://purl.org/psonto#DI_203",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_324"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_444",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_444"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_323",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_323"
+        "IRI-based" : "DI_203"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_202",
@@ -3480,10 +3468,28 @@
         "IRI-based" : "DI_202"
       }
     }, {
+      "iri" : "https://purl.org/psonto#DI_444",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_444"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#DI_565",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_565"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_323",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_323"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_443",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_443"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_201",
@@ -3496,12 +3502,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "DI_322"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_443",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_443"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_564",
@@ -3540,16 +3540,10 @@
         "IRI-based" : "DI_207"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_448",
+      "iri" : "https://purl.org/psonto#DI_569",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_448"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#DI_206",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "DI_206"
+        "IRI-based" : "DI_569"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_327",
@@ -3558,10 +3552,16 @@
         "IRI-based" : "DI_327"
       }
     }, {
-      "iri" : "https://purl.org/psonto#DI_569",
+      "iri" : "https://purl.org/psonto#DI_206",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "DI_569"
+        "IRI-based" : "DI_206"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#DI_448",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "DI_448"
       }
     }, {
       "iri" : "https://purl.org/psonto#DI_205",
@@ -3760,11 +3760,11 @@
         "undefined" : "Manufacturing lot size"
       }
     }, {
-      "iri" : "https://purl.org/psonto#ProductionRate",
+      "iri" : "https://purl.org/psonto#CostReduction",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "ProductionRate",
-        "undefined" : "Production rate"
+        "IRI-based" : "CostReduction",
+        "undefined" : "Cost reduction"
       }
     }, {
       "iri" : "https://purl.org/psonto#EmployeeTraining&TeamBuilding",
@@ -3774,11 +3774,11 @@
         "undefined" : "Employee training & team building"
       }
     }, {
-      "iri" : "https://purl.org/psonto#CostReduction",
+      "iri" : "https://purl.org/psonto#ProductionRate",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "CostReduction",
-        "undefined" : "Cost reduction"
+        "IRI-based" : "ProductionRate",
+        "undefined" : "Production rate"
       }
     }, {
       "iri" : "https://purl.org/psonto#Overproduction",
@@ -3830,18 +3830,18 @@
         "undefined" : "delivery"
       }
     }, {
-      "iri" : "https://purl.org/psonto#FYP",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "FYP",
-        "undefined" : "FYP"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#ErgonomicRisk",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "ErgonomicRisk",
         "undefined" : "Ergonomic risk"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#FYP",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "FYP",
+        "undefined" : "FYP"
       }
     }, {
       "iri" : "https://purl.org/psonto#NbOfNVAMotions",
@@ -4578,12 +4578,6 @@
         "IRI-based" : "TI_541"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_421",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_421"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_542",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -4596,10 +4590,10 @@
         "IRI-based" : "TI_300"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_422",
+      "iri" : "https://purl.org/psonto#TI_421",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_422"
+        "IRI-based" : "TI_421"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_301",
@@ -4608,16 +4602,16 @@
         "IRI-based" : "TI_301"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_422",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_422"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_543",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_543"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_544",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_544"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_423",
@@ -4632,10 +4626,16 @@
         "IRI-based" : "TI_302"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_303",
+      "iri" : "https://purl.org/psonto#TI_544",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_303"
+        "IRI-based" : "TI_544"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_545",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_545"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_424",
@@ -4644,10 +4644,10 @@
         "IRI-based" : "TI_424"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_545",
+      "iri" : "https://purl.org/psonto#TI_303",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_545"
+        "IRI-based" : "TI_303"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_546",
@@ -4668,10 +4668,10 @@
         "IRI-based" : "TI_425"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_547",
+      "iri" : "https://purl.org/psonto#TI_305",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_547"
+        "IRI-based" : "TI_305"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_426",
@@ -4680,10 +4680,10 @@
         "IRI-based" : "TI_426"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_305",
+      "iri" : "https://purl.org/psonto#TI_547",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_305"
+        "IRI-based" : "TI_547"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_306",
@@ -4746,22 +4746,16 @@
         "IRI-based" : "TI_550"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_551",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_551"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_430",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_430"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_552",
+      "iri" : "https://purl.org/psonto#TI_551",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_552"
+        "IRI-based" : "TI_551"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_431",
@@ -4770,16 +4764,16 @@
         "IRI-based" : "TI_431"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_552",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_552"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_310",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_310"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_311",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_311"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_432",
@@ -4794,10 +4788,10 @@
         "IRI-based" : "TI_553"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_312",
+      "iri" : "https://purl.org/psonto#TI_311",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_312"
+        "IRI-based" : "TI_311"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_433",
@@ -4810,6 +4804,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_554"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_312",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_312"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_313",
@@ -4830,12 +4830,6 @@
         "IRI-based" : "TI_434"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_435",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_435"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_314",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -4848,10 +4842,10 @@
         "IRI-based" : "TI_556"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_315",
+      "iri" : "https://purl.org/psonto#TI_435",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_315"
+        "IRI-based" : "TI_435"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_436",
@@ -4866,16 +4860,22 @@
         "IRI-based" : "TI_557"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_316",
+      "iri" : "https://purl.org/psonto#TI_315",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_316"
+        "IRI-based" : "TI_315"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_558",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_558"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_316",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_316"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_437",
@@ -4938,10 +4938,10 @@
         "IRI-based" : "TI_561"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_441",
+      "iri" : "https://purl.org/psonto#TI_562",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_441"
+        "IRI-based" : "TI_562"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_320",
@@ -4950,16 +4950,10 @@
         "IRI-based" : "TI_320"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_562",
+      "iri" : "https://purl.org/psonto#TI_441",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_562"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_200",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_200"
+        "IRI-based" : "TI_441"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_563",
@@ -4974,6 +4968,12 @@
         "IRI-based" : "TI_442"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_200",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_200"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_321",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -4984,12 +4984,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_201"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_564",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_564"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_322",
@@ -5004,16 +4998,10 @@
         "IRI-based" : "TI_443"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_565",
+      "iri" : "https://purl.org/psonto#TI_564",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_565"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_444",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_444"
+        "IRI-based" : "TI_564"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_202",
@@ -5028,16 +5016,16 @@
         "IRI-based" : "TI_323"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_203",
+      "iri" : "https://purl.org/psonto#TI_444",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_203"
+        "IRI-based" : "TI_444"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_324",
+      "iri" : "https://purl.org/psonto#TI_565",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_324"
+        "IRI-based" : "TI_565"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_566",
@@ -5046,10 +5034,28 @@
         "IRI-based" : "TI_566"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_203",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_203"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_445",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_445"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_324",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_324"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_325",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_325"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_567",
@@ -5064,22 +5070,16 @@
         "IRI-based" : "TI_446"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_325",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_325"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_204",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_204"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_447",
+      "iri" : "https://purl.org/psonto#TI_205",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_447"
+        "IRI-based" : "TI_205"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_568",
@@ -5088,16 +5088,16 @@
         "IRI-based" : "TI_568"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_447",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_447"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_326",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_326"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_205",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_205"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_448",
@@ -5112,16 +5112,22 @@
         "IRI-based" : "TI_327"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_569",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_569"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_206",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_206"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_569",
+      "iri" : "https://purl.org/psonto#TI_207",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_569"
+        "IRI-based" : "TI_207"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_328",
@@ -5134,12 +5140,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_449"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_207",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_207"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_329",
@@ -5178,12 +5178,6 @@
         "IRI-based" : "TI_571"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_572",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_572"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_451",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -5196,10 +5190,10 @@
         "IRI-based" : "TI_330"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_331",
+      "iri" : "https://purl.org/psonto#TI_572",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_331"
+        "IRI-based" : "TI_572"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_210",
@@ -5220,22 +5214,16 @@
         "IRI-based" : "TI_573"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_331",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_331"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_332",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_332"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_574",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_574"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_211",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_211"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_453",
@@ -5244,10 +5232,16 @@
         "IRI-based" : "TI_453"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_454",
+      "iri" : "https://purl.org/psonto#TI_211",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_454"
+        "IRI-based" : "TI_211"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_574",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_574"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_333",
@@ -5262,28 +5256,16 @@
         "IRI-based" : "TI_575"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_454",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_454"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_212",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_212"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_213",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_213"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_455",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_455"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_576",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_576"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_334",
@@ -5292,22 +5274,22 @@
         "IRI-based" : "TI_334"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_577",
+      "iri" : "https://purl.org/psonto#TI_213",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_577"
+        "IRI-based" : "TI_213"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_456",
+      "iri" : "https://purl.org/psonto#TI_576",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_456"
+        "IRI-based" : "TI_576"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_335",
+      "iri" : "https://purl.org/psonto#TI_455",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_335"
+        "IRI-based" : "TI_455"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_214",
@@ -5316,22 +5298,22 @@
         "IRI-based" : "TI_214"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_215",
+      "iri" : "https://purl.org/psonto#TI_577",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_215"
+        "IRI-based" : "TI_577"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_457",
+      "iri" : "https://purl.org/psonto#TI_335",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_457"
+        "IRI-based" : "TI_335"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_578",
+      "iri" : "https://purl.org/psonto#TI_456",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_578"
+        "IRI-based" : "TI_456"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_336",
@@ -5340,10 +5322,22 @@
         "IRI-based" : "TI_336"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_216",
+      "iri" : "https://purl.org/psonto#TI_215",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_216"
+        "IRI-based" : "TI_215"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_578",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_578"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_457",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_457"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_458",
@@ -5352,10 +5346,10 @@
         "IRI-based" : "TI_458"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_337",
+      "iri" : "https://purl.org/psonto#TI_216",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_337"
+        "IRI-based" : "TI_216"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_579",
@@ -5364,16 +5358,10 @@
         "IRI-based" : "TI_579"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_217",
+      "iri" : "https://purl.org/psonto#TI_337",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_217"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_338",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_338"
+        "IRI-based" : "TI_337"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_459",
@@ -5382,16 +5370,28 @@
         "IRI-based" : "TI_459"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_218",
+      "iri" : "https://purl.org/psonto#TI_338",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_218"
+        "IRI-based" : "TI_338"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_217",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_217"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_339",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_339"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_218",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_218"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_219",
@@ -5406,16 +5406,16 @@
         "IRI-based" : "TI_580"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_460",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_460"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_581",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_581"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_460",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_460"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_500",
@@ -5544,16 +5544,16 @@
         "IRI-based" : "TI_520"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_400",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_400"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_521",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_521"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_400",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_400"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_401",
@@ -5580,16 +5580,16 @@
         "IRI-based" : "TI_523"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_524",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_524"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_403",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_403"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_524",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_524"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_404",
@@ -5628,16 +5628,16 @@
         "IRI-based" : "TI_527"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_528",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_528"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_407",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_407"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_528",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_528"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_408",
@@ -5664,16 +5664,16 @@
         "IRI-based" : "TI_530"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_410",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_410"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_531",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_531"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_410",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_410"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_411",
@@ -5724,16 +5724,16 @@
         "IRI-based" : "TI_535"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_536",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_536"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_415",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_415"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_536",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_536"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_416",
@@ -5760,16 +5760,16 @@
         "IRI-based" : "TI_538"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_418",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_418"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_539",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_539"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_418",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_418"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_419",
@@ -5778,10 +5778,10 @@
         "IRI-based" : "TI_419"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_142",
+      "iri" : "https://purl.org/psonto#TI_384",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_142"
+        "IRI-based" : "TI_384"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_263",
@@ -5790,10 +5790,10 @@
         "IRI-based" : "TI_263"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_384",
+      "iri" : "https://purl.org/psonto#TI_142",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_384"
+        "IRI-based" : "TI_142"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_264",
@@ -5814,10 +5814,10 @@
         "IRI-based" : "TI_143"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_386",
+      "iri" : "https://purl.org/psonto#TI_265",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_386"
+        "IRI-based" : "TI_265"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_144",
@@ -5826,10 +5826,16 @@
         "IRI-based" : "TI_144"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_265",
+      "iri" : "https://purl.org/psonto#TI_386",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_265"
+        "IRI-based" : "TI_386"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_387",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_387"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_145",
@@ -5842,12 +5848,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_266"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_387",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_387"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_388",
@@ -5868,6 +5868,12 @@
         "IRI-based" : "TI_146"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_147",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_147"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_389",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -5880,22 +5886,16 @@
         "IRI-based" : "TI_268"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_147",
+      "iri" : "https://purl.org/psonto#TI_148",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_147"
+        "IRI-based" : "TI_148"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_269",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_269"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_148",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_148"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_149",
@@ -5910,16 +5910,16 @@
         "IRI-based" : "TI_390"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_391",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_391"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_270",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_270"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_391",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_391"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_392",
@@ -5958,10 +5958,10 @@
         "IRI-based" : "TI_272"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_152",
+      "iri" : "https://purl.org/psonto#TI_394",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_152"
+        "IRI-based" : "TI_394"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_273",
@@ -5970,10 +5970,16 @@
         "IRI-based" : "TI_273"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_394",
+      "iri" : "https://purl.org/psonto#TI_152",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_394"
+        "IRI-based" : "TI_152"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_153",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_153"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_274",
@@ -5988,18 +5994,6 @@
         "IRI-based" : "TI_395"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_153",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_153"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_396",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_396"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_275",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -6012,10 +6006,22 @@
         "IRI-based" : "TI_154"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_396",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_396"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_397",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_397"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_276",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_276"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_155",
@@ -6024,10 +6030,10 @@
         "IRI-based" : "TI_155"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_276",
+      "iri" : "https://purl.org/psonto#TI_277",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_276"
+        "IRI-based" : "TI_277"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_398",
@@ -6042,22 +6048,10 @@
         "IRI-based" : "TI_156"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_277",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_277"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_157",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_157"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_278",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_278"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_399",
@@ -6066,16 +6060,22 @@
         "IRI-based" : "TI_399"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_158",
+      "iri" : "https://purl.org/psonto#TI_278",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_158"
+        "IRI-based" : "TI_278"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_279",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_279"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_158",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_158"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_159",
@@ -6102,16 +6102,16 @@
         "IRI-based" : "TI_160"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_161",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_161"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_282",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_282"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_161",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_161"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_283",
@@ -6126,16 +6126,16 @@
         "IRI-based" : "TI_162"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_163",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_163"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_284",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_284"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_163",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_163"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_285",
@@ -6174,28 +6174,28 @@
         "IRI-based" : "TI_166"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_288",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_288"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_167",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_167"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_289",
+      "iri" : "https://purl.org/psonto#TI_288",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_289"
+        "IRI-based" : "TI_288"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_168",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_168"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_289",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_289"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_169",
@@ -6246,28 +6246,28 @@
         "IRI-based" : "TI_172"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_173",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_173"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_294",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_294"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_295",
+      "iri" : "https://purl.org/psonto#TI_173",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_295"
+        "IRI-based" : "TI_173"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_174",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_174"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_295",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_295"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_175",
@@ -6282,16 +6282,16 @@
         "IRI-based" : "TI_296"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_297",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_297"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_176",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_176"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_297",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_297"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_298",
@@ -6360,6 +6360,12 @@
         "IRI-based" : "TI_185"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_340",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_340"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_582",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -6372,16 +6378,16 @@
         "IRI-based" : "TI_461"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_340",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_340"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_220",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_220"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_462",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_462"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_583",
@@ -6394,12 +6400,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_341"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_462",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_462"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_221",
@@ -6420,22 +6420,22 @@
         "IRI-based" : "TI_342"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_100",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_100"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_584",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_584"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_101",
+      "iri" : "https://purl.org/psonto#TI_100",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_101"
+        "IRI-based" : "TI_100"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_222",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_222"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_464",
@@ -6450,16 +6450,10 @@
         "IRI-based" : "TI_343"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_222",
+      "iri" : "https://purl.org/psonto#TI_101",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_222"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_102",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_102"
+        "IRI-based" : "TI_101"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_344",
@@ -6480,10 +6474,10 @@
         "IRI-based" : "TI_465"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_224",
+      "iri" : "https://purl.org/psonto#TI_102",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_224"
+        "IRI-based" : "TI_102"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_103",
@@ -6498,16 +6492,16 @@
         "IRI-based" : "TI_345"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_224",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_224"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_466",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_466"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_346",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_346"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_467",
@@ -6528,6 +6522,12 @@
         "IRI-based" : "TI_104"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_346",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_346"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_226",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -6540,22 +6540,16 @@
         "IRI-based" : "TI_347"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_468",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_468"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_105",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_105"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_227",
+      "iri" : "https://purl.org/psonto#TI_468",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_227"
+        "IRI-based" : "TI_468"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_106",
@@ -6564,16 +6558,22 @@
         "IRI-based" : "TI_106"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_348",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_348"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_469",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_469"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_227",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_227"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_348",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_348"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_107",
@@ -6594,16 +6594,16 @@
         "IRI-based" : "TI_228"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_229",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_229"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_108",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_108"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_229",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_229"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_109",
@@ -6648,12 +6648,6 @@
         "IRI-based" : "TI_230"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_473",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_473"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_352",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -6666,22 +6660,16 @@
         "IRI-based" : "TI_110"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_473",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_473"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_231",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_231"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_474",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_474"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_232",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_232"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_111",
@@ -6696,6 +6684,30 @@
         "IRI-based" : "TI_353"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_232",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_232"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_474",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_474"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_112",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_112"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_233",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_233"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_354",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -6708,28 +6720,10 @@
         "IRI-based" : "TI_475"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_233",
+      "iri" : "https://purl.org/psonto#TI_234",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_233"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_112",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_112"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_476",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_476"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_355",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_355"
+        "IRI-based" : "TI_234"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_113",
@@ -6738,10 +6732,28 @@
         "IRI-based" : "TI_113"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_234",
+      "iri" : "https://purl.org/psonto#TI_355",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_234"
+        "IRI-based" : "TI_355"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_476",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_476"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_235",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_235"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_477",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_477"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_114",
@@ -6756,16 +6768,10 @@
         "IRI-based" : "TI_356"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_477",
+      "iri" : "https://purl.org/psonto#TI_478",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_477"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_235",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_235"
+        "IRI-based" : "TI_478"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_236",
@@ -6774,28 +6780,16 @@
         "IRI-based" : "TI_236"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_115",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_115"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_357",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_357"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_478",
+      "iri" : "https://purl.org/psonto#TI_115",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_478"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_237",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_237"
+        "IRI-based" : "TI_115"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_116",
@@ -6804,28 +6798,22 @@
         "IRI-based" : "TI_116"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_479",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_479"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_358",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_358"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_238",
+      "iri" : "https://purl.org/psonto#TI_479",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_238"
+        "IRI-based" : "TI_479"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_117",
+      "iri" : "https://purl.org/psonto#TI_237",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_117"
+        "IRI-based" : "TI_237"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_359",
@@ -6834,16 +6822,28 @@
         "IRI-based" : "TI_359"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_118",
+      "iri" : "https://purl.org/psonto#TI_117",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_118"
+        "IRI-based" : "TI_117"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_238",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_238"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_239",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_239"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_118",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_118"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_119",
@@ -6858,22 +6858,22 @@
         "IRI-based" : "TI_480"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_360",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_360"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_481",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_481"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_361",
+      "iri" : "https://purl.org/psonto#TI_360",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_361"
+        "IRI-based" : "TI_360"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_482",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_482"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_240",
@@ -6882,10 +6882,10 @@
         "IRI-based" : "TI_240"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_482",
+      "iri" : "https://purl.org/psonto#TI_361",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_482"
+        "IRI-based" : "TI_361"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_120",
@@ -6918,12 +6918,6 @@
         "IRI-based" : "TI_121"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_363",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_363"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_242",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -6936,22 +6930,10 @@
         "IRI-based" : "TI_484"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_243",
+      "iri" : "https://purl.org/psonto#TI_363",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_243"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_485",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_485"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_122",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_122"
+        "IRI-based" : "TI_363"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_364",
@@ -6960,16 +6942,22 @@
         "IRI-based" : "TI_364"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_365",
+      "iri" : "https://purl.org/psonto#TI_243",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_365"
+        "IRI-based" : "TI_243"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_486",
+      "iri" : "https://purl.org/psonto#TI_122",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_486"
+        "IRI-based" : "TI_122"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_485",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_485"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_123",
@@ -6984,22 +6972,16 @@
         "IRI-based" : "TI_244"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_124",
+      "iri" : "https://purl.org/psonto#TI_365",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_124"
+        "IRI-based" : "TI_365"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_245",
+      "iri" : "https://purl.org/psonto#TI_486",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_245"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_366",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_366"
+        "IRI-based" : "TI_486"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_487",
@@ -7008,16 +6990,28 @@
         "IRI-based" : "TI_487"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_366",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_366"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_245",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_245"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_124",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_124"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_488",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_488"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_367",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_367"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_246",
@@ -7026,16 +7020,22 @@
         "IRI-based" : "TI_246"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_367",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_367"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_125",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_125"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_247",
+      "iri" : "https://purl.org/psonto#TI_368",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_247"
+        "IRI-based" : "TI_368"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_126",
@@ -7044,16 +7044,16 @@
         "IRI-based" : "TI_126"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_247",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_247"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_489",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_489"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_368",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_368"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_127",
@@ -7074,16 +7074,16 @@
         "IRI-based" : "TI_369"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_249",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_249"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_128",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_128"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_249",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_249"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_129",
@@ -7098,28 +7098,28 @@
         "IRI-based" : "TI_490"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_491",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_491"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_370",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_370"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_371",
+      "iri" : "https://purl.org/psonto#TI_491",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_371"
+        "IRI-based" : "TI_491"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_250",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_250"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_371",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_371"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_492",
@@ -7152,18 +7152,6 @@
         "IRI-based" : "TI_493"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_131",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_131"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_494",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_494"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_373",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -7174,6 +7162,24 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_252"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_494",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_494"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_131",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_131"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_374",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_374"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_495",
@@ -7194,10 +7200,10 @@
         "IRI-based" : "TI_132"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_374",
+      "iri" : "https://purl.org/psonto#TI_133",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_374"
+        "IRI-based" : "TI_133"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_375",
@@ -7206,10 +7212,10 @@
         "IRI-based" : "TI_375"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_133",
+      "iri" : "https://purl.org/psonto#TI_496",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "TI_133"
+        "IRI-based" : "TI_496"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_254",
@@ -7218,28 +7224,10 @@
         "IRI-based" : "TI_254"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_496",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_496"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_134",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_134"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_255",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_255"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_497",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_497"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_376",
@@ -7248,16 +7236,22 @@
         "IRI-based" : "TI_376"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_497",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_497"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_134",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_134"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_377",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_377"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_256",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_256"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_135",
@@ -7266,22 +7260,16 @@
         "IRI-based" : "TI_135"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_256",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_256"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_498",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_498"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_136",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_136"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#TI_257",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_257"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_499",
@@ -7290,10 +7278,22 @@
         "IRI-based" : "TI_499"
       }
     }, {
+      "iri" : "https://purl.org/psonto#TI_136",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_136"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#TI_378",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_378"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_257",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_257"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_258",
@@ -7314,16 +7314,16 @@
         "IRI-based" : "TI_137"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_259",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_259"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_138",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_138"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_259",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_259"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_139",
@@ -7338,16 +7338,16 @@
         "IRI-based" : "TI_380"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_260",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_260"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_381",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_381"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_260",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_260"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_140",
@@ -7368,12 +7368,6 @@
         "IRI-based" : "TI_261"
       }
     }, {
-      "iri" : "https://purl.org/psonto#TI_383",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "TI_383"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#TI_262",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -7384,6 +7378,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "TI_141"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#TI_383",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "TI_383"
       }
     }, {
       "iri" : "https://purl.org/psonto#TI_186",
@@ -7574,16 +7574,16 @@
       "en" : "Improvement Relationship"
     },
     "individuals" : [ {
-      "iri" : "https://purl.org/psonto#IR_423",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_423"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_302",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_302"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_423",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_423"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_424",
@@ -7598,16 +7598,16 @@
         "IRI-based" : "IR_303"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_421",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_421"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_300",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_300"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_421",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_421"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_422",
@@ -7634,28 +7634,28 @@
         "IRI-based" : "IR_306"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_307",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_307"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_428",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_428"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_304",
+      "iri" : "https://purl.org/psonto#IR_307",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_304"
+        "IRI-based" : "IR_307"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_425",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_425"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_304",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_304"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_305",
@@ -7760,22 +7760,16 @@
         "IRI-based" : "IR_203"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_324",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_324"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_445",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_445"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_446",
+      "iri" : "https://purl.org/psonto#IR_324",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_446"
+        "IRI-based" : "IR_324"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_204",
@@ -7790,16 +7784,16 @@
         "IRI-based" : "IR_325"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_446",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_446"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_322",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_322"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_443",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_443"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_201",
@@ -7808,16 +7802,16 @@
         "IRI-based" : "IR_201"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_443",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_443"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_202",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_202"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_444",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_444"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_323",
@@ -7826,16 +7820,22 @@
         "IRI-based" : "IR_323"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_328",
+      "iri" : "https://purl.org/psonto#IR_444",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_328"
+        "IRI-based" : "IR_444"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_449",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_449"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_328",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_328"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_207",
@@ -7856,16 +7856,16 @@
         "IRI-based" : "IR_329"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_447",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_447"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_326",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_326"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_447",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_447"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_205",
@@ -7874,16 +7874,16 @@
         "IRI-based" : "IR_205"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_206",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_206"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_448",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_448"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_206",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_206"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_327",
@@ -7892,16 +7892,22 @@
         "IRI-based" : "IR_327"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_441",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_441"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_320",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_320"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_441",
+      "iri" : "https://purl.org/psonto#IR_321",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_441"
+        "IRI-based" : "IR_321"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_442",
@@ -7914,12 +7920,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_200"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_321",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_321"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_440",
@@ -7958,16 +7958,16 @@
         "IRI-based" : "IR_314"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_432",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_432"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_311",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_311"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_432",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_432"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_312",
@@ -7994,16 +7994,16 @@
         "IRI-based" : "IR_317"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_318",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_318"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_439",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_439"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_318",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_318"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_315",
@@ -8048,22 +8048,34 @@
         "IRI-based" : "IR_310"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_429",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_429"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_308",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_308"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_429",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_429"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_309",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_309"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_467",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_467"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_346",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_346"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_104",
@@ -8078,16 +8090,16 @@
         "IRI-based" : "IR_225"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_346",
+      "iri" : "https://purl.org/psonto#IR_226",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_346"
+        "IRI-based" : "IR_226"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_467",
+      "iri" : "https://purl.org/psonto#IR_347",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_467"
+        "IRI-based" : "IR_347"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_105",
@@ -8100,18 +8112,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_468"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_347",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_347"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_226",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_226"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_465",
@@ -8138,10 +8138,10 @@
         "IRI-based" : "IR_344"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_466",
+      "iri" : "https://purl.org/psonto#IR_224",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_466"
+        "IRI-based" : "IR_224"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_345",
@@ -8150,10 +8150,10 @@
         "IRI-based" : "IR_345"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_224",
+      "iri" : "https://purl.org/psonto#IR_466",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_224"
+        "IRI-based" : "IR_466"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_103",
@@ -8162,16 +8162,16 @@
         "IRI-based" : "IR_103"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_108",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_108"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_229",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_229"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_108",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_108"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_109",
@@ -8180,22 +8180,16 @@
         "IRI-based" : "IR_109"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_106",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_106"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_227",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_227"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_348",
+      "iri" : "https://purl.org/psonto#IR_106",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_348"
+        "IRI-based" : "IR_106"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_469",
@@ -8204,10 +8198,10 @@
         "IRI-based" : "IR_469"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_349",
+      "iri" : "https://purl.org/psonto#IR_348",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_349"
+        "IRI-based" : "IR_348"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_107",
@@ -8222,16 +8216,16 @@
         "IRI-based" : "IR_228"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_349",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_349"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_460",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_460"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_221",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_221"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_463",
@@ -8252,10 +8246,10 @@
         "IRI-based" : "IR_342"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_343",
+      "iri" : "https://purl.org/psonto#IR_221",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_343"
+        "IRI-based" : "IR_221"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_222",
@@ -8268,6 +8262,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_101"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_343",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_343"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_464",
@@ -8342,10 +8342,10 @@
         "IRI-based" : "IR_215"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_454",
+      "iri" : "https://purl.org/psonto#IR_212",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_454"
+        "IRI-based" : "IR_212"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_333",
@@ -8354,22 +8354,22 @@
         "IRI-based" : "IR_333"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_212",
+      "iri" : "https://purl.org/psonto#IR_454",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_212"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_455",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_455"
+        "IRI-based" : "IR_454"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_334",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_334"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_455",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_455"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_213",
@@ -8396,6 +8396,12 @@
         "IRI-based" : "IR_219"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_337",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_337"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_458",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -8406,18 +8412,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_216"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_337",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_337"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_459",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_459"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_217",
@@ -8432,16 +8426,10 @@
         "IRI-based" : "IR_338"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_452",
+      "iri" : "https://purl.org/psonto#IR_459",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_452"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_210",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_210"
+        "IRI-based" : "IR_459"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_331",
@@ -8450,22 +8438,34 @@
         "IRI-based" : "IR_331"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_210",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_210"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_452",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_452"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_332",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_332"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_211",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_211"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_453",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_453"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_211",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_211"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_450",
@@ -8516,22 +8516,16 @@
         "IRI-based" : "IR_127"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_248",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_248"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_369",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_369"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_245",
+      "iri" : "https://purl.org/psonto#IR_248",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_245"
+        "IRI-based" : "IR_248"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_366",
@@ -8546,10 +8540,16 @@
         "IRI-based" : "IR_124"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_367",
+      "iri" : "https://purl.org/psonto#IR_245",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_367"
+        "IRI-based" : "IR_245"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_125",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_125"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_246",
@@ -8558,10 +8558,10 @@
         "IRI-based" : "IR_246"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_125",
+      "iri" : "https://purl.org/psonto#IR_367",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_125"
+        "IRI-based" : "IR_367"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_128",
@@ -8582,16 +8582,16 @@
         "IRI-based" : "IR_129"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_360",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_360"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_481",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_481"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_360",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_360"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_361",
@@ -8624,10 +8624,10 @@
         "IRI-based" : "IR_20"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_243",
+      "iri" : "https://purl.org/psonto#IR_485",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_243"
+        "IRI-based" : "IR_485"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_122",
@@ -8642,22 +8642,10 @@
         "IRI-based" : "IR_364"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_485",
+      "iri" : "https://purl.org/psonto#IR_243",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_485"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_244",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_244"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_123",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_123"
+        "IRI-based" : "IR_243"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_365",
@@ -8666,10 +8654,16 @@
         "IRI-based" : "IR_365"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_483",
+      "iri" : "https://purl.org/psonto#IR_123",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_483"
+        "IRI-based" : "IR_123"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_244",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_244"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_120",
@@ -8690,22 +8684,28 @@
         "IRI-based" : "IR_241"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_483",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_483"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_242",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_242"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_121",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_121"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_484",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_484"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_121",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_121"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_363",
@@ -8780,22 +8780,16 @@
         "IRI-based" : "IR_115"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_478",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_478"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_357",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_357"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_358",
+      "iri" : "https://purl.org/psonto#IR_478",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_358"
+        "IRI-based" : "IR_478"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_116",
@@ -8804,28 +8798,22 @@
         "IRI-based" : "IR_116"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_479",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_479"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_237",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_237"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_476",
+      "iri" : "https://purl.org/psonto#IR_358",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_476"
+        "IRI-based" : "IR_358"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_234",
+      "iri" : "https://purl.org/psonto#IR_479",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_234"
+        "IRI-based" : "IR_479"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_113",
@@ -8834,10 +8822,28 @@
         "IRI-based" : "IR_113"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_234",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_234"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_355",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_355"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_476",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_476"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_477",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_477"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_235",
@@ -8852,12 +8858,6 @@
         "IRI-based" : "IR_356"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_477",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_477"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_114",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -8868,6 +8868,12 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_119"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_117",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_117"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_359",
@@ -8882,10 +8888,10 @@
         "IRI-based" : "IR_238"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_117",
+      "iri" : "https://purl.org/psonto#IR_239",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_117"
+        "IRI-based" : "IR_239"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_118",
@@ -8894,22 +8900,10 @@
         "IRI-based" : "IR_118"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_239",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_239"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_470",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_470"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_471",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_471"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_350",
@@ -8918,16 +8912,10 @@
         "IRI-based" : "IR_350"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_111",
+      "iri" : "https://purl.org/psonto#IR_471",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_111"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_474",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_474"
+        "IRI-based" : "IR_471"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_232",
@@ -8936,28 +8924,22 @@
         "IRI-based" : "IR_232"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_111",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_111"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_353",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_353"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_354",
+      "iri" : "https://purl.org/psonto#IR_474",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_354"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_475",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_475"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_112",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_112"
+        "IRI-based" : "IR_474"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_233",
@@ -8966,10 +8948,22 @@
         "IRI-based" : "IR_233"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_351",
+      "iri" : "https://purl.org/psonto#IR_475",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_351"
+        "IRI-based" : "IR_475"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_354",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_354"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_112",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_112"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_472",
@@ -8984,22 +8978,28 @@
         "IRI-based" : "IR_230"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_351",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_351"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_231",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_231"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_473",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_473"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_352",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_352"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_473",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_473"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_110",
@@ -9068,16 +9068,16 @@
         "IRI-based" : "IR_19"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_148",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_148"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_269",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_269"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_148",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_148"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_149",
@@ -9092,16 +9092,22 @@
         "IRI-based" : "IR_146"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_267",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_267"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_388",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_388"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_267",
+      "iri" : "https://purl.org/psonto#IR_147",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_267"
+        "IRI-based" : "IR_147"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_389",
@@ -9116,16 +9122,10 @@
         "IRI-based" : "IR_268"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_147",
+      "iri" : "https://purl.org/psonto#IR_261",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_147"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_140",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_140"
+        "IRI-based" : "IR_261"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_382",
@@ -9134,22 +9134,22 @@
         "IRI-based" : "IR_382"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_261",
+      "iri" : "https://purl.org/psonto#IR_140",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_261"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_383",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_383"
+        "IRI-based" : "IR_140"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_262",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_262"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_383",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_383"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_141",
@@ -9176,6 +9176,12 @@
         "IRI-based" : "IR_260"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_144",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_144"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_265",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -9186,18 +9192,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_386"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_144",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_144"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_266",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_266"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_145",
@@ -9212,10 +9206,22 @@
         "IRI-based" : "IR_387"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_266",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_266"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_263",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_263"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_384",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_384"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_142",
@@ -9224,10 +9230,10 @@
         "IRI-based" : "IR_142"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_384",
+      "iri" : "https://purl.org/psonto#IR_143",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_384"
+        "IRI-based" : "IR_143"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_385",
@@ -9240,12 +9246,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_264"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_143",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_143"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_137",
@@ -9284,16 +9284,16 @@
         "IRI-based" : "IR_135"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_377",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_377"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_256",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_256"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_377",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_377"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_136",
@@ -9302,16 +9302,16 @@
         "IRI-based" : "IR_136"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_257",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_257"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_378",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_378"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_257",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_257"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_139",
@@ -9320,16 +9320,16 @@
         "IRI-based" : "IR_139"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_371",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_371"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_250",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_250"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_371",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_371"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_251",
@@ -9356,16 +9356,16 @@
         "IRI-based" : "IR_370"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_133",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_133"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_375",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_375"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_133",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_133"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_254",
@@ -9392,16 +9392,16 @@
         "IRI-based" : "IR_134"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_252",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_252"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_373",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_373"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_252",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_252"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_131",
@@ -9446,16 +9446,16 @@
         "IRI-based" : "IR_169"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_283",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_283"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_162",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_162"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_283",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_283"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_163",
@@ -9470,22 +9470,16 @@
         "IRI-based" : "IR_284"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_281",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_281"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_160",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_160"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_161",
+      "iri" : "https://purl.org/psonto#IR_281",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_161"
+        "IRI-based" : "IR_281"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_282",
@@ -9494,10 +9488,10 @@
         "IRI-based" : "IR_282"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_166",
+      "iri" : "https://purl.org/psonto#IR_161",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_166"
+        "IRI-based" : "IR_161"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_287",
@@ -9506,10 +9500,10 @@
         "IRI-based" : "IR_287"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_167",
+      "iri" : "https://purl.org/psonto#IR_166",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_167"
+        "IRI-based" : "IR_166"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_288",
@@ -9518,16 +9512,22 @@
         "IRI-based" : "IR_288"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_285",
+      "iri" : "https://purl.org/psonto#IR_167",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_285"
+        "IRI-based" : "IR_167"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_164",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_164"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_285",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_285"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_286",
@@ -9572,22 +9572,16 @@
         "IRI-based" : "IR_399"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_158",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_158"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_279",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_279"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_272",
+      "iri" : "https://purl.org/psonto#IR_158",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_272"
+        "IRI-based" : "IR_158"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_151",
@@ -9602,10 +9596,10 @@
         "IRI-based" : "IR_393"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_152",
+      "iri" : "https://purl.org/psonto#IR_272",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_152"
+        "IRI-based" : "IR_272"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_273",
@@ -9614,16 +9608,16 @@
         "IRI-based" : "IR_273"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_152",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_152"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_394",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_394"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_270",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_270"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_391",
@@ -9632,16 +9626,10 @@
         "IRI-based" : "IR_391"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_271",
+      "iri" : "https://purl.org/psonto#IR_270",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_271"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_392",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_392"
+        "IRI-based" : "IR_270"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_150",
@@ -9650,10 +9638,28 @@
         "IRI-based" : "IR_150"
       }
     }, {
+      "iri" : "https://purl.org/psonto#IR_392",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_392"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_271",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_271"
+      }
+    }, {
       "iri" : "https://purl.org/psonto#IR_397",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_397"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_276",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_276"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_155",
@@ -9662,10 +9668,10 @@
         "IRI-based" : "IR_155"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_276",
+      "iri" : "https://purl.org/psonto#IR_156",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_276"
+        "IRI-based" : "IR_156"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_398",
@@ -9680,16 +9686,10 @@
         "IRI-based" : "IR_277"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_156",
+      "iri" : "https://purl.org/psonto#IR_274",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_156"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_395",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_395"
+        "IRI-based" : "IR_274"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_153",
@@ -9698,10 +9698,16 @@
         "IRI-based" : "IR_153"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_274",
+      "iri" : "https://purl.org/psonto#IR_395",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_274"
+        "IRI-based" : "IR_395"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_275",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_275"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_396",
@@ -9714,12 +9720,6 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_154"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#IR_275",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_275"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_390",
@@ -9806,22 +9806,16 @@
         "IRI-based" : "IR_294"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_174",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_174"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_295",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_295"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_292",
+      "iri" : "https://purl.org/psonto#IR_174",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_292"
+        "IRI-based" : "IR_174"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_171",
@@ -9830,10 +9824,10 @@
         "IRI-based" : "IR_171"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_172",
+      "iri" : "https://purl.org/psonto#IR_292",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_172"
+        "IRI-based" : "IR_292"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_293",
@@ -9842,10 +9836,10 @@
         "IRI-based" : "IR_293"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_177",
+      "iri" : "https://purl.org/psonto#IR_172",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_177"
+        "IRI-based" : "IR_172"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_298",
@@ -9854,16 +9848,22 @@
         "IRI-based" : "IR_298"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_299",
+      "iri" : "https://purl.org/psonto#IR_177",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
-        "IRI-based" : "IR_299"
+        "IRI-based" : "IR_177"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_178",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_178"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_299",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_299"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_175",
@@ -9896,16 +9896,16 @@
         "IRI-based" : "IR_290"
       }
     }, {
-      "iri" : "https://purl.org/psonto#IR_291",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "IR_291"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#IR_170",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "IR_170"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#IR_291",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "IR_291"
       }
     }, {
       "iri" : "https://purl.org/psonto#IR_195",
@@ -10599,18 +10599,6 @@
         "IRI-based" : "SpaghettiDiagram"
       }
     }, {
-      "iri" : "https://purl.org/psonto#7Mudas",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "7Mudas"
-      }
-    }, {
-      "iri" : "https://purl.org/psonto#VSM",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "VSM"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#Andon",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
@@ -10621,6 +10609,18 @@
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "EliminateMura(Unevenness)"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#VSM",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "VSM"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#7Mudas",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "7Mudas"
       }
     }, {
       "iri" : "https://purl.org/psonto#Poka-yoke",
@@ -10716,18 +10716,18 @@
         "undefined" : "Productivity"
       }
     }, {
-      "iri" : "https://purl.org/psonto#Reliability",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "Reliability",
-        "undefined" : "Reliability"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#Transfers",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "Transfers",
         "undefined" : "Transfers"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#Reliability",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "Reliability",
+        "undefined" : "Reliability"
       }
     }, {
       "iri" : "https://purl.org/psonto#TotalCostPlantOperation",
@@ -10744,18 +10744,18 @@
         "undefined" : "Lead Time family"
       }
     }, {
-      "iri" : "https://purl.org/psonto#ProductionRate",
-      "baseIri" : "https://purl.org/psonto",
-      "labels" : {
-        "IRI-based" : "ProductionRate",
-        "undefined" : "Production rate"
-      }
-    }, {
       "iri" : "https://purl.org/psonto#EffectivenessFamily",
       "baseIri" : "https://purl.org/psonto",
       "labels" : {
         "IRI-based" : "EffectivenessFamily",
         "undefined" : "Effectiveness family"
+      }
+    }, {
+      "iri" : "https://purl.org/psonto#ProductionRate",
+      "baseIri" : "https://purl.org/psonto",
+      "labels" : {
+        "IRI-based" : "ProductionRate",
+        "undefined" : "Production rate"
       }
     }, {
       "iri" : "https://purl.org/psonto#Mura",
@@ -10987,7 +10987,7 @@
   }, {
     "range" : "25",
     "domain" : "14",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "24"
   }, {
     "iri" : "https://purl.org/psonto#hasTotalInfluence",
@@ -11124,17 +11124,17 @@
   }, {
     "range" : "25",
     "domain" : "11",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "40"
   }, {
     "range" : "14",
     "domain" : "4",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "41"
   }, {
     "range" : "14",
     "domain" : "26",
-    "attributes" : [ "anonymous", "object" ],
+    "attributes" : [ "object", "anonymous" ],
     "id" : "42"
   } ]
 }
